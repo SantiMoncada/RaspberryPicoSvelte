@@ -3,8 +3,8 @@
 #include "lwip/apps/httpd.h"
 // #include "lwipopts.h" i dont know if i need this
 
-const char WIFI_SSID[] = "MIWIFI_2G_g9dw";
-const char WIFI_PASSWORD[] = "3yzswe3emyh6";
+const char WIFI_SSID[] = "<WIFI_SSID>";
+const char WIFI_PASSWORD[] = "<WIFI_PASSWORD>";
 
 int main()
 {
